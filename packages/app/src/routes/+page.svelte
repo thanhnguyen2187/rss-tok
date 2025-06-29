@@ -5,6 +5,6 @@ async function fetchData() {
 }
 </script>
 
-<div class="prose max-w-none">
-    <p>Move to `/demo`</p>
+<div class="w-full h-full p-4">
+    <p>Move to <a href="demo">/demo</a></p>
 </div>
